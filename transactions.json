@@ -1,0 +1,7 @@
+[
+  { "id": "001", "label": "foo", "amount": 100 },
+  { "id": "002", "label": "bar", "amount": -60 },
+  { "id": "003", "label": "baz", "amount": 90 },
+  { "id": "004", "label": "foobar", "amount": -120 },
+  { "id": "005", "label": "barfoo", "amount": 75 }
+]
